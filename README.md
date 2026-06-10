@@ -36,3 +36,5 @@ Para desbloquear el software de forma permanente y sin límites de tiempo, podé
 Hacé clic en el siguiente enlace para enviar el código y coordinar el pago de forma directa:
 
 👉 **[Enviar ID Cliente por WhatsApp](https://wa.me/5492615458021?text=Hola%20Marcelo,%20quiero%20adquirir%20la%20licencia%20del%20Analizador%20Loto%20Plus%20por%20$49.999.%20Mi%20ID%20Cliente%20es:%20)**
+
+** Muchas gracias por adquirir el Analizador Estadístico Avanzado del Loto Plus **
