@@ -15,7 +15,7 @@ Software profesional diseñado para el análisis de datos, cálculo dinámico de
 ## 💾 Descargar Versión Demo (Prueba Gratuita)
 Podés descargar e instalar la versión de prueba funcional (válida por 6 días) directamente desde este repositorio para probar la herramienta en tu computadora:
 
-👉 **[DESCARGAR INSTALADOR DE LA DEMO](Instalador_Loto_Plus_Avanzado.exe)**
+👉 **[DESCARGAR INSTALADOR DE LA DEMO](https://github.com/mtoni2/Loto-Plus/raw/main/Instalador_Loto_Plus_Avanzado.exe)**
 
 ---
 
