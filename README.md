@@ -12,10 +12,12 @@ Software profesional diseñado para el análisis de datos, cálculo dinámico de
 
 ---
 
-## 💾 Descargar Versión Demo (Prueba Gratuita)
-Podés descargar e instalar la versión de prueba funcional (válida por 6 días) directamente desde este repositorio para probar la herramienta en tu computadora:
+## 💾 Descargar Versión Demo (Prueba Gratuita por 7 días)
+Podés descargar e instalar la versión de prueba funcional directamente desde este servidor seguro:
 
 👉 **[DESCARGAR INSTALADOR DE LA DEMO](https://github.com/mtoni2/Loto-Plus/raw/main/Instalador_Loto_Plus_Avanzado.exe)**
+
+> ⚠️ **Nota sobre la instalación:** Al ser un software independiente y no estar firmado con un certificado comercial masivo, Windows SmartScreen podría mostrar una advertencia de "Archivo no seguro" (Falso Positivo). El instalador está 100% libre de virus. Para continuar la instalación, simplemente hacé clic en **"Más información"** y luego en **"Ejecutar de todas formas"**.
 
 ---
 
@@ -34,5 +36,3 @@ Para desbloquear el software de forma permanente y sin límites de tiempo, podé
 Hacé clic en el siguiente enlace para enviar el código y coordinar el pago de forma directa:
 
 👉 **[Enviar ID Cliente por WhatsApp](https://wa.me/5492615458021?text=Hola%20Marcelo,%20quiero%20adquirir%20la%20licencia%20del%20Analizador%20Loto%20Plus%20por%20$49.999.%20Mi%20ID%20Cliente%20es:%20)**
-
-*(Nota: Acordate de reemplazar las `X` del enlace de arriba por tu número de celular real con tu código de área sin el 15, por ejemplo `54911XXXXXXXX` o el que corresponda a tu provincia).*
