@@ -38,6 +38,13 @@ Para facilitarte la jugada, el software procesa todo el historial cargado median
 
 ---
 
+📦 Base de Datos y Actualización Autónoma
+El software se entrega completamente listo para usar y con soporte a largo plazo:
+Historial Oficial Precargado: Incluye una base de datos robusta con los últimos 150 sorteos oficiales, totalmente actualizada hasta el Sorteo N° 3889.
+Mantenimiento Autónomo: El programa no queda obsoleto. Gracias al botón "Nuevo Sorteo", se puede ir cargando y anexando los nuevos resultados de la Lotería a medida que se vayan sorteando de forma oficial, manteniendo los 5 motores probabilísticos siempre al día.
+
+---
+
 ## 💾 Descargar Versión Demo (Prueba Gratuita por 7 días)
 Podés descargar e instalar la versión de prueba funcional directamente desde este servidor seguro:
 
