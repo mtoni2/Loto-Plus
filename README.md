@@ -69,6 +69,8 @@ Hacé clic en el siguiente enlace para enviar el código y coordinar el pago de 
 
 ***
 
+> ⚖️ **Descargo de Responsabilidad (Disclaimer):** Este software es una herramienta estrictamente analítica, estadística y matemática diseñada para estudiar frecuencias de salida, históricos y tendencias probabilísticas basadas en datos reales. El Loto Plus es un juego regido por el azar. El uso de esta aplicación optimiza y profesionaliza la selección de números, pero **NO garantiza la obtención de premios ni resultados ganadores**. El desarrollador no se responsabiliza por las decisiones de juego, apuestas realizadas ni pérdidas económicas de los usuarios. Juegue con responsabilidad.
+
 <p align="center">
   © 2026 Desarrollado por Marcelo Tonini - Mendoza - Argentina
 </p>
