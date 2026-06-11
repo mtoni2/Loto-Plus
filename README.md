@@ -66,3 +66,9 @@ Hacé clic en el siguiente enlace para enviar el código y coordinar el pago de 
 ---
 
 🎨 **Muchas gracias por adquirir el Analizador Estadístico Avanzado del Loto Plus**
+
+***
+
+<p align="center">
+  © 2026 Desarrollado por Marcelo Tonini - Mendoza - Argentina
+</p>
