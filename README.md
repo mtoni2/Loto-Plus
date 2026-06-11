@@ -9,6 +9,7 @@ Software profesional diseñado para el análisis de datos, cálculo dinámico de
 * **Cálculo de Frecuencias en Caliente:** Actualización matemática instantánea tanto de las Bolas Blancas (00-45) como del N° Plus (00-09) conforme se interactúa con la grilla.
 * **Persistencia Segura de Datos:** El historial de sorteos y el estado de la licencia se resguardan de forma automatizada en la carpeta local del sistema (`AppData`), garantizando que no se pierdan datos en futuras actualizaciones o reinstalaciones.
 * **Predicción Avanzada:** 5 algoritmos de cálculo probabilístico independientes para armar tus jugadas estratégicas basados en el comportamiento histórico real.
+* **🖥️ Compatibilidad de Sistema:** Optimizado y totalmente compatible para ejecutarse en sistemas operativos desde **Windows 7, 8, 10, 11 y versiones superiores que existan**, tanto en arquitecturas de 32 como de 64 bits.
 
 ---
 
